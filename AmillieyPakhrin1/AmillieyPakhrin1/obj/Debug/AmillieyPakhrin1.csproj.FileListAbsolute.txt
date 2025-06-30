@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\bin\Debug\AmillieyPakhrin1.exe.config
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\bin\Debug\AmillieyPakhrin1.exe
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\bin\Debug\AmillieyPakhrin1.pdb
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\obj\Debug\AmillieyPakhrin1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\obj\Debug\AmillieyPakhrin1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\obj\Debug\AmillieyPakhrin1.exe
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\obj\Debug\AmillieyPakhrin1.pdb
+C:\Users\Lenovo\source\repos\AmillieyPakhrin1\AmillieyPakhrin1\obj\Debug\AmillieyPakhrin1.exe.config
