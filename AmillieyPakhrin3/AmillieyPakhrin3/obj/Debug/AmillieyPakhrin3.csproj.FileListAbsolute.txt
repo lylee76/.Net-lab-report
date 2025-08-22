@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\bin\Debug\AmillieyPakhrin3.exe.config
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\bin\Debug\AmillieyPakhrin3.exe
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\bin\Debug\AmillieyPakhrin3.pdb
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\obj\Debug\AmillieyPakhrin3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\obj\Debug\AmillieyPakhrin3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\obj\Debug\Amilliey.48074222.Up2Date
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\obj\Debug\AmillieyPakhrin3.exe
+C:\Users\Lenovo\source\repos\AmillieyPakhrin3\AmillieyPakhrin3\obj\Debug\AmillieyPakhrin3.pdb
